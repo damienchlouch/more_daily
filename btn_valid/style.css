@@ -1,0 +1,27 @@
+.whole_btn{
+    background: linear-gradient(pink,orange);
+    border-radius: 20px;
+    width: 15%;
+    box-shadow: 0px 5px 5px violet;
+}
+
+.txt_btn{
+    padding: 10px;
+}
+
+.txt_btn p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: white;
+    font-size: 20px;
+}
+
+.whole_btn:hover{
+    margin-top: 10px;
+    background: linear-gradient(pink,orange);
+    border-radius: 20px;
+    width: 15%;
+    box-shadow:none;
+    transition: 0.51s;
+}
