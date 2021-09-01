@@ -45,9 +45,10 @@
 }
 
   .whole_btn{
+    padding: 10px;
     background: linear-gradient(pink,orange);
     border-radius: 20px;
-    width: 15%;
+    width: 200px;
     box-shadow: 0px 5px 5px violet;
 }
 
@@ -67,7 +68,6 @@
     margin-top: 80px;
     background: linear-gradient(pink,orange);
     border-radius: 20px;
-    width: 15%;
     box-shadow:none;
     transition: 0.2s;
 }
